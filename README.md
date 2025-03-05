@@ -14,7 +14,7 @@
 
 В этом разделе представлены три обязательные работы:
 
-1. **Работа 1**: [ИСР 1.1]([./pdf/invariant_work_1.pdf](https://github.com/AD1N23/3-rd-practice/blob/main/ИСР%201.1.pdf))  
+1. **Работа 1**: [ИСР 1.1](https://github.com/AD1N23/3-rd-practice/blob/main/ИСР%201.1.pdf))  
    Краткое описание работы (если нужно).
 
 2. **Работа 2**: [Название второй работы](./pdf/invariant_work_2.pdf)  
